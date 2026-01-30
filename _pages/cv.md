@@ -11,35 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Software Engineering, Soochow University, 2023
+  * National Scholarship for Doctoral Students
+  * Special Prize Scholarship (twice)
+  * Graduate Research Innovation Program (Principal Investigator)
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2023 - Present: Lecturer
+  * School of Internet of Things, Nanjing University of Posts and Telecommunications
+  * Master's Supervisor
+  * Member of China Computer Federation (CCF)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Projects
+======
+* Principal Investigator
+  * National Natural Science Foundation Youth Project
+  * Natural Science Foundation Project of Jiangsu Higher Education Institutions
+  * NJUPT Talent Start-up Funding
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Key Participant
+  * Multiple National Natural Science Foundation General Projects
   
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Center Networks
+* Cloud Computing and Big Data
+* Network Reliability
+* Fault-Tolerant Computing
+* Graph Theory and Algorithms
+
+Academic Service
+======
+* Reviewer for International Journals and Conferences
+  * IEEE Transactions on Reliability
+  * Theoretical Computer Science
+  * The Computer Journal
+  * Journal of Supercomputing
 
 Publications
 ======

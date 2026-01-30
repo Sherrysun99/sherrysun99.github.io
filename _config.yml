@@ -11,10 +11,10 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Xueli Sun"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Xueli Sun"
+description              : &description "Xueli Sun's Academic Portfolio - Lecturer at NJUPT, Research in Network Reliability and Fault-Tolerant Computing"
 url                      : https://sherrysun99.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+                                                          # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sherrysun99/sherrysun99.github.io"
 
@@ -24,13 +24,13 @@ repository               : "Sherrysun99/sherrysun99.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Xueli Sun"
+  pronouns         : "she/her"  
+  bio              : "Lecturer & Master's Supervisor<br/>School of Internet of Things<br/>Nanjing University of Posts and Telecommunications"
+  location         : "Nanjing, China"
+  employer         : "Nanjing University of Posts and Telecommunications"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sunxueli@njupt.edu.cn" 
 
   # Academic websites
   academia         : # URL
