@@ -19,7 +19,7 @@ author_profile: true
 </div>
 
 <span id="about"></span>
-我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**及其在**数据中心网络**和**云计算**中的应用。我在IEEE Transactions on Reliability、The Computer Journal、Theoretical Computer Science等国际知名期刊和会议上发表论文二十余篇。
+我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**及其在**数据中心网络**和**云计算**中的应用。我在IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、The Computer Journal、Journal of Computer Science and Technology、Theoretical Computer Science等国际知名期刊和会议上发表**29篇论文**。
 
 我于2023年6月获得苏州大学软件工程专业工学博士学位，师从樊建席教授。在博士期间，我荣获博士研究生国家奖学金🏆和两次校级特等奖学金（最高荣誉）。
 
@@ -51,28 +51,82 @@ author_profile: true
 <span id="news"></span>
 # 🔥 最新动态
 
+- **2025.01**：🎉🎉 两篇论文（含一篇第一作者）被 IEEE Transactions on Computers **(CCF A类顶级期刊)** 接收！
 - **2023.08**：🎉 入职南京邮电大学，担任讲师职位 ✨！
 - **2023.06**：🎓 顺利通过苏州大学博士学位论文答辩！
-- **2023.06**：🏆 一篇论文被 The Computer Journal (SCI Q2) 接收！
-- **2023.06**：🏆 一篇论文被 Journal of Computer Science and Technology (CCF B) 接收！
-- **2023.03**：🏆 一篇论文被 Theoretical Computer Science (CCF B) 接收！
-- **2023.03**：🏆 一篇论文被 Journal of Supercomputing (SCI Q2) 接收！
-- **2023.01**：🏆 一篇论文被 IEEE Transactions on Reliability (SCI Q1, 顶级期刊) 接收！
 
 <span id="publications"></span>
-# 📝 主要论文
+# 📝 论文发表
+
+**2025年**
+
+- **孙雪丽**, Shuangxiang Kan, Jianxi Fan, Weibei Fan, Jin Qi, Zhenjiang Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A类)**, 2025.
+
+- Xuanli Liu, Zhenjiang Dong, Weibei Fan, Mengjie Lv, **孙雪丽**, Jin Qi, Sun-Yuan Hsieh: A Highly Reliable Multiplexing Scheme in Hypercube-Structured Hierarchical Networks. *IEEE Transactions on Computers* **(CCF A类)**, 74(10): 3462-3475 (2025).
+
+- Yao Pan, Weibei Fan, Mengjie Lv, **孙雪丽**, Shui Yu: An Incremental Scalable Network Architecture With Fault-Tolerant Communication. *IEEE Transactions on Reliability* **(SCI一区)**, 74(4): 5738-5752 (2025).
+
+**2024年**
+
+- Xuanli Liu, Mengjie Lv, Weibei Fan, **孙雪丽**: Cluster connectivity and super cluster connectivity of half hypercube networks. *Theoretical Computer Science* **(CCF B类)**, 1011: 114715 (2024).
+
+- Xuanli Liu, Mengjie Lv, Weibei Fan, **孙雪丽**, Zhenjiang Dong, Fu Xiao: Reliability of Half Hypercube Networks under Cluster Faults. *CSCWD* 2024: 2153-2158.
+
+- Jingman Pei, Mengjie Lv, Weibei Fan, **孙雪丽**, Xin He, Fu Xiao: A protection routing with secure mechanism in the data center network WaveCube. *CSCWD* 2024: 2159-2164.
+
+- Yuzhen Xu, Weibei Fan, Mengjie Lv, **孙雪丽**, Lei Han, Fu Xiao: Parallel Construction of Independent Spanning Trees on 3-ary n-cube Networks. *NPC (1)* 2024: 133-145.
+
+- Donglai Wang, Weibei Fan, Fu Xiao, Mengjie Lv, **孙雪丽**, Lei Han: Distributed Dynamic Virtual Network Embedding in Container Networks. *WASA (2)* 2024: 205-215.
+
+- Yuzhen Xu, Weibei Fan, Mengjie Lv, **孙雪丽**, Xiaoyan Li, Fu Xiao: An Efficient Fault-Tolerant Communication Scheme in 3-Ary n-Cube Networks. *WASA (2)* 2024: 342-354.
 
 **2023年**
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Jingya Zhou, Yan Wang: Relationship Between Component Connectivity And Component Diagnosability Of Some Regular Networks. *The Computer Journal*, 66(8): 2033-2042 (2023).
+- **孙雪丽**, Jianxi Fan, Baolei Cheng, Jingya Zhou, Yan Wang: Relationship Between Component Connectivity And Component Diagnosability Of Some Regular Networks. *The Computer Journal* **(CCF B类)**, 66(8): 2033-2042 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Yan Wang, Li Zhang: Probabilistic Fault Diagnosis of Clustered Faults for Multiprocessor Systems. *Journal of Computer Science and Technology*, 38(4): 821-833 (2023).
+- **孙雪丽**, Jianxi Fan, Baolei Cheng, Yan Wang, Li Zhang: Probabilistic Fault Diagnosis of Clustered Faults for Multiprocessor Systems. *Journal of Computer Science and Technology* **(CCF B类)**, 38(4): 821-833 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Yan Wang: The t/m-diagnosis strategy of augmented k-ary n-cubes. *Theoretical Computer Science*, 945: 113671 (2023).
+- **孙雪丽**, Jianxi Fan, Baolei Cheng, Yan Wang, Jingya Zhou: Reliability of Augmented 3-Ary n-Cubes with Extra Faults. *Journal of Interconnect Networks*, 23(2): 2150040:1-2150040:20 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Eminjan Sabir, Baolei Cheng, Jia Yu: Reliability of augmented k-ary n-cubes under the extra connectivity condition. *Journal of Supercomputing*, 79(12): 13641-13669 (2023).
+- **孙雪丽**, Jianxi Fan, Baolei Cheng, Yan Wang: The t/m-diagnosis strategy of augmented k-ary n-cubes. *Theoretical Computer Science* **(CCF B类)**, 945: 113671 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Shuangxiang Kan, Weibei Fan, Xiaohua Jia: Component Reliability of a Class of Regular Networks and Its Applications. *IEEE Transactions on Reliability*, 72(2): 637-650 (2023).
+- **孙雪丽**, Jianxi Fan, Eminjan Sabir, Baolei Cheng, Jia Yu: Reliability of augmented k-ary n-cubes under the extra connectivity condition. *Journal of Supercomputing* **(SCI二区)**, 79(12): 13641-13669 (2023).
+
+- **孙雪丽**, Jianxi Fan, Shuangxiang Kan, Weibei Fan, Xiaohua Jia: Component Reliability of a Class of Regular Networks and Its Applications. *IEEE Transactions on Reliability* **(SCI一区)**, 72(2): 637-650 (2023).
+
+**2022年**
+
+- Yihong Wang, Jianxi Fan, **孙雪丽**, Baolei Cheng, Yan Wang: Fault-tolerability of the hypercube and variants with faulty subcubes. *Journal of Parallel and Distributed Computing* **(CCF B类)**, 167: 148-156 (2022).
+
+- Yihong Wang, **孙雪丽**, Weibei Fan, Baolei Cheng, Li Xu, Jianxi Fan: Relationship between g-extra Connectivity and g-restricted Connectivity in Networks. *ICPADS* 2022: 155-160.
+
+**2021年**
+
+- **孙雪丽**, Jianxi Fan, Baolei Cheng, Zhao Liu, Jia Yu: Component conditional fault tolerance of hierarchical folded cubic networks. *Theoretical Computer Science* **(CCF B类)**, 883: 44-58 (2021).
+
+**2020年**
+
+- **孙雪丽**, Shuming Zhou, Mengjie Lv, Jiafei Liu, Guanqin Lian: Intermittent Fault Diagnosability of Some General Regular Networks. *The Computer Journal* **(CCF B类)**, 63(1): 16-24 (2020).
+
+- **孙雪丽**, Shuming Zhou, Zhendong Gu, Yihong Wang, Min Li: Reliability evaluation of complete cubic networks. *International Journal of Parallel, Emergent and Distributed Systems*, 35(1): 42-56 (2020).
+
+**2019年**
+
+- Mengjie Lv, Shuming Zhou, Jiafei Liu, **孙雪丽**, Guanqin Lian: Fault diagnosability of DQcube under the PMC model. *Discrete Applied Mathematics* **(CCF B类)**, 259: 180-192 (2019).
+
+- Mengjie Lv, Shuming Zhou, **孙雪丽**, Guanqin Lian, Jiafei Liu: Reliability of (n, k)-star network based on g-extra conditional fault. *Theoretical Computer Science* **(CCF B类)**, 757: 44-55 (2019).
+
+- **孙雪丽**, Qingfeng Dong, Shuming Zhou, Mengjie Lv, Guanqin Lian, Jiafei Liu: Fault tolerance analysis of hierarchical folded cube. *Theoretical Computer Science* **(CCF B类)**, 790: 117-130 (2019).
+
+- Mengjie Lv, Shuming Zhou, **孙雪丽**, Guanqin Lian, Jiafei Liu, Dajin Wang: Probabilistic diagnosis of clustered faults for hypercube-based multiprocessor system. *Theoretical Computer Science* **(CCF B类)**, 793: 113-131 (2019).
+
+**2018年**
+
+- Mengjie Lv, Shuming Zhou, **孙雪丽**, Guanqin Lian, Gaolin Chen: The g-good-neighbour conditional diagnosability of multiprocessor system based on half hypercube. *International Journal of Computer Mathematics: Computer Systems Theory*, 3(3): 160-176 (2018).
+
+- Mengjie Lv, Shuming Zhou, **孙雪丽**, Guanqin Lian, Jiafei Liu: Reliability Evaluation of Data Center Network DCell. *Parallel Processing Letters*, 28(4): 1850015:1-1850015:10 (2018).
+
+- Honghai Liu, Xingchen Yang, **孙雪丽**, Linwei Ye, Keshi He: Automatic Estimation of Biceps Brachi Muscle Thickness in B-Mode Ultrasound Images. *SMC* 2018: 4340-4344.
 
 <span id="projects"></span>
 # 🔬 科研项目
