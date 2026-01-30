@@ -49,8 +49,6 @@ I am always excited to work with motivated students who share a passion for netw
 - 🌍 Priority support for international academic exchange
 - ✈️ Potential opportunities for further studies at prestigious overseas universities
 
-Please contact me at: **sunxueli@njupt.edu.cn**
-
 <span id="news"></span>
 # 🔥 News
 

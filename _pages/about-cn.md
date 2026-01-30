@@ -46,8 +46,6 @@ author_profile: true
 - 🌍 优先支持国际学术交流机会
 - ✈️ 推荐赴海外知名高校深造的机会
 
-联系方式：**sunxueli@njupt.edu.cn**
-
 <span id="news"></span>
 # 🔥 最新动态
 
