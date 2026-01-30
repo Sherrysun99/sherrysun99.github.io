@@ -22,9 +22,9 @@ redirect_from:
 </div>
 
 <span id="about"></span>
-I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **network reliability**, **fault-tolerant computing**, and their applications in **data center networks** and **cloud computing**. I have published **29 papers** in prestigious international journals and conferences, including IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
+I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **network reliability**, **fault-tolerant computing**, and their applications in **data center networks** and **cloud computing**. I have published **29 papers** in prestigious international journals and conferences, including **12 papers in CCF Rank B and above journals** (including 2 CCF A papers) such as IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
 
-I received my Ph.D. degree in Software Engineering from Soochow University in June 2023, under the supervision of Prof. Jianxi Fan. During my doctoral studies, I was honored with the National Scholarship for Doctoral Students 🏆 and received the Special Prize Scholarship twice (highest honor).
+I received my Ph.D. degree in Software Engineering from Soochow University in June 2023, under the supervision of Prof. Jianxi Fan. During my doctoral studies, I was honored with the National Scholarship for Doctoral Students 🏆, received the Special Prize Scholarship twice, and led the Graduate Research Innovation Program of Jiangsu Province (2021-2022).
 
 I am a member of the China Computer Federation (CCF) and serve as a reviewer for several international journals including IEEE Transactions on Reliability, Theoretical Computer Science, The Computer Journal, and Journal of Supercomputing.
 
@@ -67,7 +67,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 
 - Xuanli Liu, Zhenjiang Dong, Weibei Fan, Mengjie Lv, **Xueli Sun**, Jin Qi, Sun-Yuan Hsieh: A Highly Reliable Multiplexing Scheme in Hypercube-Structured Hierarchical Networks. *IEEE Transactions on Computers* **(CCF A)**, 74(10): 3462-3475 (2025).
 
-- Yao Pan, Weibei Fan, Mengjie Lv, **Xueli Sun**, Shui Yu: An Incremental Scalable Network Architecture With Fault-Tolerant Communication. *IEEE Transactions on Reliability* **(SCI Q1)**, 74(4): 5738-5752 (2025).
+- Yao Pan, Weibei Fan, Mengjie Lv, **Xueli Sun**, Shui Yu: An Incremental Scalable Network Architecture With Fault-Tolerant Communication. *IEEE Transactions on Reliability* **(SCI Q2)**, 74(4): 5738-5752 (2025).
 
 **2024**
 
@@ -93,9 +93,9 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 
 - **Xueli Sun**, Jianxi Fan, Baolei Cheng, Yan Wang: The t/m-diagnosis strategy of augmented k-ary n-cubes. *Theoretical Computer Science* **(CCF B)**, 945: 113671 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Eminjan Sabir, Baolei Cheng, Jia Yu: Reliability of augmented k-ary n-cubes under the extra connectivity condition. *Journal of Supercomputing* **(SCI Q2)**, 79(12): 13641-13669 (2023).
+- **Xueli Sun**, Jianxi Fan, Eminjan Sabir, Baolei Cheng, Jia Yu: Reliability of augmented k-ary n-cubes under the extra connectivity condition. *Journal of Supercomputing* **(SCI Q3)**, 79(12): 13641-13669 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Shuangxiang Kan, Weibei Fan, Xiaohua Jia: Component Reliability of a Class of Regular Networks and Its Applications. *IEEE Transactions on Reliability* **(SCI Q1)**, 72(2): 637-650 (2023).
+- **Xueli Sun**, Jianxi Fan, Shuangxiang Kan, Weibei Fan, Xiaohua Jia: Component Reliability of a Class of Regular Networks and Its Applications. *IEEE Transactions on Reliability* **(SCI Q2)**, 72(2): 637-650 (2023).
 
 **2022**
 
@@ -115,7 +115,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 
 **2019**
 
-- Mengjie Lv, Shuming Zhou, Jiafei Liu, **Xueli Sun**, Guanqin Lian: Fault diagnosability of DQcube under the PMC model. *Discrete Applied Mathematics* **(CCF B)**, 259: 180-192 (2019).
+- Mengjie Lv, Shuming Zhou, Jiafei Liu, **Xueli Sun**, Guanqin Lian: Fault diagnosability of DQcube under the PMC model. *Discrete Applied Mathematics* **(CCF C, SCI Q3)**, 259: 180-192 (2019).
 
 - Mengjie Lv, Shuming Zhou, **Xueli Sun**, Guanqin Lian, Jiafei Liu: Reliability of (n, k)-star network based on g-extra conditional fault. *Theoretical Computer Science* **(CCF B)**, 757: 44-55 (2019).
 
@@ -139,9 +139,6 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 - Natural Science Foundation of Jiangsu Higher Education Institutions
 - NJUPT Talent Start-up Funding
 
-**Key Participant:**
-- Multiple National Natural Science Foundation General Projects
-
 <span id="services"></span>
 # 🌠 Academic Services
 
@@ -157,7 +154,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 - **2023**: National Scholarship for Doctoral Students (Top 1%)
 - **2022**: Special Prize Scholarship, Soochow University (Top 1%)
 - **2021**: Special Prize Scholarship, Soochow University (Top 1%)
-- **2020-2023**: Graduate Research Innovation Program (Principal Investigator)
+- **2021-2022**: Graduate Research Innovation Program of Jiangsu Province (Principal Investigator)
 
 <span id="education"></span>
 # 📖 Education & Experience
