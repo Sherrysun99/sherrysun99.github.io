@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<span id="about"></span>
 I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **network reliability**, **fault-tolerant computing**, and their applications in **data center networks** and **cloud computing**. I have published over 20 papers in prestigious international journals and conferences such as IEEE Transactions on Reliability, The Computer Journal, and Theoretical Computer Science.
 
 I received my Ph.D. degree in Software Engineering from Soochow University in June 2023, under the supervision of Prof. Jianxi Fan. During my doctoral studies, I was honored with the National Scholarship for Doctoral Students 🏆 and received the Special Prize Scholarship twice (highest honor).
@@ -36,6 +37,7 @@ I am always excited to work with motivated students who share a passion for netw
 
 Please contact me at: **sunxueli@njupt.edu.cn**
 
+<span id="news"></span>
 # 🔥 News
 
 - **2023.08**: 🎉 I joined Nanjing University of Posts and Telecommunications as a Lecturer ✨!
@@ -46,6 +48,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 - **2023.03**: 🏆 One paper accepted by Journal of Supercomputing (SCI Q2)!
 - **2023.01**: 🏆 One paper accepted by IEEE Transactions on Reliability (SCI Q1, Top Journal)!
 
+<span id="publications"></span>
 # 📝 Publications
 
 **2023**
@@ -60,6 +63,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 
 - **Xueli Sun**, Jianxi Fan, Shuangxiang Kan, Weibei Fan, Xiaohua Jia: Component Reliability of a Class of Regular Networks and Its Applications. *IEEE Transactions on Reliability*, 72(2): 637-650 (2023).
 
+<span id="projects"></span>
 # 🔬 Research Projects
 
 **Principal Investigator:**
@@ -70,6 +74,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 **Key Participant:**
 - Multiple National Natural Science Foundation General Projects
 
+<span id="services"></span>
 # 🌠 Academic Services
 
 **Reviewer for International Journals:**
@@ -78,6 +83,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 - The Computer Journal
 - Journal of Supercomputing
 
+<span id="honors"></span>
 # 🎖 Honors and Awards
 
 - **2023**: National Scholarship for Doctoral Students (Top 1%)
@@ -85,6 +91,7 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 - **2021**: Special Prize Scholarship, Soochow University (Top 1%)
 - **2020-2023**: Graduate Research Innovation Program (Principal Investigator)
 
+<span id="education"></span>
 # 📖 Education
 
 - **2023.06**: Ph.D. in Software Engineering, Soochow University, Suzhou, China
