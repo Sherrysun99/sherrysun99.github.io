@@ -106,17 +106,12 @@ Please contact me at: **sunxueli@njupt.edu.cn**
 - **2020-2023**: Graduate Research Innovation Program (Principal Investigator)
 
 <span id="education"></span>
-# 📖 Education
+# 📖 Education & Experience
+
+- **2023.08 - Present**: Lecturer & Master's Supervisor
+  - School of Internet of Things, Nanjing University of Posts and Telecommunications
+  - Nanjing, China
 
 - **2023.06**: Ph.D. in Software Engineering, Soochow University, Suzhou, China
   - Supervisor: Prof. Jianxi Fan
   - Thesis: Research on Network Reliability and Fault Diagnosis
-
-- **2017-2020**: Previous Education (to be updated)
-
-# 💼 Work Experience
-
-- **2023.08 - Present**: Lecturer & Master's Supervisor
-  - School of Internet of Things
-  - Nanjing University of Posts and Telecommunications
-  - Nanjing, China
