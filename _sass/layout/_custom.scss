@@ -1,0 +1,123 @@
+/* ==========================================================================
+   CUSTOM STYLE IMPROVEMENTS
+   ========================================================================== */
+
+/* Better text rendering */
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+}
+
+/* Improve strong and bold text */
+strong, b {
+  font-weight: 600;
+}
+
+/* Better emphasis */
+em, i {
+  font-style: italic;
+}
+
+/* Improve link styling */
+a {
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+/* Better spacing for main content */
+.page__content {
+  font-size: 16px;
+  line-height: 1.75;
+  
+  p {
+    margin-bottom: 1.5em;
+    line-height: 1.75;
+  }
+  
+  /* Better heading margins */
+  h1, h2, h3 {
+    margin-top: 2.5em;
+    margin-bottom: 1em;
+    letter-spacing: -0.02em;
+  }
+  
+  h1:first-child,
+  h2:first-child,
+  h3:first-child {
+    margin-top: 0;
+  }
+  
+  /* Improve emoji display */
+  img.emoji {
+    display: inline-block;
+    vertical-align: text-bottom;
+    margin: 0;
+    border-radius: 0;
+    height: 1em;
+    width: 1em;
+  }
+}
+
+/* Improve sidebar text */
+.sidebar {
+  font-size: 14px;
+  line-height: 1.6;
+  
+  p {
+    line-height: 1.6;
+  }
+}
+
+/* Better author bio */
+.author__bio {
+  font-size: 15px;
+  line-height: 1.65;
+}
+
+/* Improve navigation */
+.greedy-nav a {
+  font-weight: 500;
+}
+
+/* Better blockquote styling */
+blockquote {
+  font-size: 1em;
+  line-height: 1.7;
+  font-style: normal;
+  color: var(--global-text-color);
+  opacity: 0.9;
+}
+
+/* Improve code blocks */
+code {
+  font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, monospace;
+  font-size: 0.9em;
+}
+
+pre {
+  font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, monospace;
+  line-height: 1.5;
+}
+
+/* Better publication list styling */
+.page__content {
+  li {
+    line-height: 1.7;
+    margin-bottom: 0.8em;
+  }
+}
+
+/* Improve spacing between sections */
+.page__content > h1,
+.page__content > h2 {
+  margin-top: 3em;
+  padding-top: 0.5em;
+}
+
+.page__content > h1:first-child,
+.page__content > h2:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
