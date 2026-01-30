@@ -1,25 +1,11 @@
 ---
 permalink: /
-title: "Xueli Sun - Homepage"
+title: "Xueli Sun"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="/cn/" style="text-decoration: none; padding: 5px 15px; background-color: #4a90e2; color: white; border-radius: 5px;">中文</a>
-</div>
-
-<div style="text-align: center; margin-bottom: 30px; padding: 15px; background-color: #f5f5f5; border-radius: 10px;">
-  <a href="#about" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">About</a> |
-  <a href="#news" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">News</a> |
-  <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">Publications</a> |
-  <a href="#projects" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">Projects</a> |
-  <a href="#services" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">Services</a> |
-  <a href="#honors" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">Honors</a> |
-  <a href="#education" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">Education</a>
-</div>
 
 <span id="about"></span>
 I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **network reliability**, **fault-tolerant computing**, and their applications in **data center networks** and **cloud computing**. I have published **29 papers** in prestigious international journals and conferences, including **12 papers in CCF Rank B and above journals** (including 2 CCF A papers) such as IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.

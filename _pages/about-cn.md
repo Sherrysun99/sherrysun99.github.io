@@ -1,22 +1,8 @@
 ---
 permalink: /cn/
-title: "孙雪丽 - 个人主页"
+title: "孙雪丽"
 author_profile: true
 ---
-
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="/" style="text-decoration: none; padding: 5px 15px; background-color: #4a90e2; color: white; border-radius: 5px;">English</a>
-</div>
-
-<div style="text-align: center; margin-bottom: 30px; padding: 15px; background-color: #f5f5f5; border-radius: 10px;">
-  <a href="#about" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">关于我</a> |
-  <a href="#news" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">最新动态</a> |
-  <a href="#publications" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">论文发表</a> |
-  <a href="#projects" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">科研项目</a> |
-  <a href="#services" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">学术服务</a> |
-  <a href="#honors" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">荣誉奖项</a> |
-  <a href="#education" style="margin: 0 10px; text-decoration: none; color: #4a90e2;">教育背景</a>
-</div>
 
 <span id="about"></span>
 我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**及其在**数据中心网络**和**云计算**中的应用。我在IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、The Computer Journal、Journal of Computer Science and Technology、Theoretical Computer Science等国际知名期刊和会议上发表**29篇论文**，其中**CCF B类及以上期刊论文12篇**（含CCF A类2篇）。
