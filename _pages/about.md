@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span id="about"></span>
-I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **network reliability**, **fault-tolerant computing**, and their applications in **data center networks** and **cloud computing**. I have published **28 papers** in prestigious international journals and conferences, including **12 papers in CCF Rank B and above journals** (including 2 CCF A papers) such as IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
+I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **network reliability**, **fault-tolerant computing**, and their applications in **data center networks** and **cloud computing**. I have published **29 papers** in prestigious international journals and conferences, including **13 papers in CCF Rank B and above journals** (including 3 CCF A papers) such as IEEE/ACM Transactions on Networking **(CCF A)**, IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
 
 I received my Ph.D. degree in Software Engineering from Soochow University in June 2023, under the supervision of Prof. Jianxi Fan. During my doctoral studies, I was honored with the National Scholarship for Doctoral Students 🏆, received the Special Prize Scholarship twice, and led the Graduate Research Innovation Program of Jiangsu Province (2021-2022).
 
@@ -38,12 +38,15 @@ I am always excited to work with motivated students who share a passion for netw
 <span id="news"></span>
 # 🔥 News
 
-- **2025.01**: 🎉🎉 Two papers (including one first-authored) accepted by IEEE Transactions on Computers **(CCF A, Top Journal)**!
+- **2026.03**: 🎉🎉 One first-authored paper accepted by IEEE/ACM Transactions on Networking **(CCF A, Top Journal)**!
+- **2025.12**: 🎉🎉 Two papers (including one first-authored) accepted by IEEE Transactions on Computers **(CCF A, Top Journal)**!
 - **2023.08**: 🎉 I joined Nanjing University of Posts and Telecommunications as a Lecturer ✨!
 - **2023.06**: 🎓 Successfully defended my Ph.D. dissertation at Soochow University!
 
 <span id="publications"></span>
 # 📝 Publications
+
+- **Xueli Sun**, Shuangxiang Kan, Weibei Fan, Jin Qi, Zhenjiang Dong, Jianxi Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC∗ Model. *IEEE/ACM Transactions on Networking* **(CCF A)**, 2026. (Accepted)
 
 - **Xueli Sun**, Shuangxiang Kan, Jianxi Fan, Weibei Fan, Jin Qi, Zhenjiang Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A)**, 2025.
 

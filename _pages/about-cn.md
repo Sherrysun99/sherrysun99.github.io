@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <span id="about"></span>
-我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**及其在**数据中心网络**和**云计算**中的应用。我在IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、The Computer Journal、Journal of Computer Science and Technology、Theoretical Computer Science等国际知名期刊和会议上发表**28篇论文**，其中**CCF B类及以上期刊论文12篇**（含CCF A类2篇）。
+我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**及其在**数据中心网络**和**云计算**中的应用。我在IEEE/ACM Transactions on Networking、IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、The Computer Journal、Journal of Computer Science and Technology、Theoretical Computer Science等国际知名期刊和会议上发表**29篇论文**，其中**CCF B类及以上期刊论文13篇**（含CCF A类3篇）。
 
 我于2023年6月获得苏州大学软件工程专业工学博士学位，师从樊建席教授。在博士期间，我荣获博士研究生国家奖学金🏆、两次校级特等奖学金，主持江苏省研究生科研创新计划项目（2021-2022）。
 
@@ -35,12 +35,15 @@ author_profile: true
 <span id="news"></span>
 # 🔥 最新动态
 
-- **2025.01**：🎉🎉 两篇论文（含一篇第一作者）被 IEEE Transactions on Computers **(CCF A类顶级期刊)** 接收！
+- **2026.03**：🎉🎉 一篇第一作者论文被 IEEE/ACM Transactions on Networking **(CCF A类顶级期刊)** 接收！
+- **2025.12**：🎉🎉 两篇论文（含一篇第一作者）被 IEEE Transactions on Computers **(CCF A类顶级期刊)** 接收！
 - **2023.08**：🎉 入职南京邮电大学，担任讲师职位 ✨！
 - **2023.06**：🎓 顺利通过苏州大学博士学位论文答辩！
 
 <span id="publications"></span>
 # 📝 论文发表
+
+- **Xueli Sun**, Shuangxiang Kan, Weibei Fan, Jin Qi, Zhenjiang Dong, Jianxi Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC∗ Model. *IEEE/ACM Transactions on Networking* **(CCF A类)**, 2026. （已接收）
 
 - **Xueli Sun**, Shuangxiang Kan, Jianxi Fan, Weibei Fan, Jin Qi, Zhenjiang Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A类)**, 2025.
 
