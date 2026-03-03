@@ -46,59 +46,59 @@ I am always excited to work with motivated students who share a passion for netw
 <span id="publications"></span>
 # 📝 Publications
 
-- **Xueli Sun**, Shuangxiang Kan, Weibei Fan, Jin Qi, Zhenjiang Dong, Jianxi Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC∗ Model. *IEEE/ACM Transactions on Networking* **(CCF A)**, 2026. (Accepted)
+- **Xueli Sun**, S. Kan, W. Fan, J. Qi, Z. Dong, J. Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC∗ Model. *IEEE/ACM Transactions on Networking* **(CCF A)**, 2026.
 
-- **Xueli Sun**, Shuangxiang Kan, Jianxi Fan, Weibei Fan, Jin Qi, Zhenjiang Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A)**, 2025.
+- **Xueli Sun**, S. Kan, J. Fan, W. Fan, J. Qi, Z. Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A)**, 2025.
 
-- Xuanli Liu, Zhenjiang Dong, Weibei Fan, Mengjie Lv, **Xueli Sun**, Jin Qi, Sun-Yuan Hsieh: A Highly Reliable Multiplexing Scheme in Hypercube-Structured Hierarchical Networks. *IEEE Transactions on Computers* **(CCF A)**, 74(10): 3462-3475 (2025).
+- X. Liu, Z. Dong, W. Fan, M. Lv, **Xueli Sun**, J. Qi, S.-Y. Hsieh: A Highly Reliable Multiplexing Scheme in Hypercube-Structured Hierarchical Networks. *IEEE Transactions on Computers* **(CCF A)**, 74(10): 3462-3475 (2025).
 
-- Yao Pan, Weibei Fan, Mengjie Lv, **Xueli Sun**, Shui Yu: An Incremental Scalable Network Architecture With Fault-Tolerant Communication. *IEEE Transactions on Reliability* **(SCI Q2)**, 74(4): 5738-5752 (2025).
+- Y. Pan, W. Fan, M. Lv, **Xueli Sun**, S. Yu: An Incremental Scalable Network Architecture With Fault-Tolerant Communication. *IEEE Transactions on Reliability* **(SCI Q2)**, 74(4): 5738-5752 (2025).
 
-- Xuanli Liu, Mengjie Lv, Weibei Fan, **Xueli Sun**: Cluster connectivity and super cluster connectivity of half hypercube networks. *Theoretical Computer Science* **(CCF B)**, 1011: 114715 (2024).
+- X. Liu, M. Lv, W. Fan, **Xueli Sun**: Cluster connectivity and super cluster connectivity of half hypercube networks. *Theoretical Computer Science* **(CCF B)**, 1011: 114715 (2024).
 
-- Xuanli Liu, Mengjie Lv, Weibei Fan, **Xueli Sun**, Zhenjiang Dong, Fu Xiao: Reliability of Half Hypercube Networks under Cluster Faults. *CSCWD* 2024: 2153-2158.
+- X. Liu, M. Lv, W. Fan, **Xueli Sun**, Z. Dong, F. Xiao: Reliability of Half Hypercube Networks under Cluster Faults. *CSCWD* 2024: 2153-2158.
 
-- Jingman Pei, Mengjie Lv, Weibei Fan, **Xueli Sun**, Xin He, Fu Xiao: A protection routing with secure mechanism in the data center network WaveCube. *CSCWD* 2024: 2159-2164.
+- J. Pei, M. Lv, W. Fan, **Xueli Sun**, X. He, F. Xiao: A protection routing with secure mechanism in the data center network WaveCube. *CSCWD* 2024: 2159-2164.
 
-- Yuzhen Xu, Weibei Fan, Mengjie Lv, **Xueli Sun**, Lei Han, Fu Xiao: Parallel Construction of Independent Spanning Trees on 3-ary n-cube Networks. *NPC (1)* 2024: 133-145.
+- Y. Xu, W. Fan, M. Lv, **Xueli Sun**, L. Han, F. Xiao: Parallel Construction of Independent Spanning Trees on 3-ary n-cube Networks. *NPC (1)* 2024: 133-145.
 
-- Donglai Wang, Weibei Fan, Fu Xiao, Mengjie Lv, **Xueli Sun**, Lei Han: Distributed Dynamic Virtual Network Embedding in Container Networks. *WASA (2)* 2024: 205-215.
+- D. Wang, W. Fan, F. Xiao, M. Lv, **Xueli Sun**, L. Han: Distributed Dynamic Virtual Network Embedding in Container Networks. *WASA (2)* 2024: 205-215.
 
-- Yuzhen Xu, Weibei Fan, Mengjie Lv, **Xueli Sun**, Xiaoyan Li, Fu Xiao: An Efficient Fault-Tolerant Communication Scheme in 3-Ary n-Cube Networks. *WASA (2)* 2024: 342-354.
+- Y. Xu, W. Fan, M. Lv, **Xueli Sun**, X. Li, F. Xiao: An Efficient Fault-Tolerant Communication Scheme in 3-Ary n-Cube Networks. *WASA (2)* 2024: 342-354.
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Jingya Zhou, Yan Wang: Relationship Between Component Connectivity And Component Diagnosability Of Some Regular Networks. *The Computer Journal* **(CCF B)**, 66(8): 2033-2042 (2023).
+- **Xueli Sun**, J. Fan, B. Cheng, J. Zhou, Y. Wang: Relationship Between Component Connectivity And Component Diagnosability Of Some Regular Networks. *The Computer Journal* **(CCF B)**, 66(8): 2033-2042 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Yan Wang, Li Zhang: Probabilistic Fault Diagnosis of Clustered Faults for Multiprocessor Systems. *Journal of Computer Science and Technology* **(CCF B)**, 38(4): 821-833 (2023).
+- **Xueli Sun**, J. Fan, B. Cheng, Y. Wang, L. Zhang: Probabilistic Fault Diagnosis of Clustered Faults for Multiprocessor Systems. *Journal of Computer Science and Technology* **(CCF B)**, 38(4): 821-833 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Yan Wang, Jingya Zhou: Reliability of Augmented 3-Ary n-Cubes with Extra Faults. *Journal of Interconnect Networks*, 23(2): 2150040:1-2150040:20 (2023).
+- **Xueli Sun**, J. Fan, B. Cheng, Y. Wang, J. Zhou: Reliability of Augmented 3-Ary n-Cubes with Extra Faults. *Journal of Interconnect Networks*, 23(2): 2150040:1-2150040:20 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Yan Wang: The t/m-diagnosis strategy of augmented k-ary n-cubes. *Theoretical Computer Science* **(CCF B)**, 945: 113671 (2023).
+- **Xueli Sun**, J. Fan, B. Cheng, Y. Wang: The t/m-diagnosis strategy of augmented k-ary n-cubes. *Theoretical Computer Science* **(CCF B)**, 945: 113671 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Eminjan Sabir, Baolei Cheng, Jia Yu: Reliability of augmented k-ary n-cubes under the extra connectivity condition. *Journal of Supercomputing* **(SCI Q3)**, 79(12): 13641-13669 (2023).
+- **Xueli Sun**, J. Fan, E. Sabir, B. Cheng, J. Yu: Reliability of augmented k-ary n-cubes under the extra connectivity condition. *Journal of Supercomputing* **(SCI Q3)**, 79(12): 13641-13669 (2023).
 
-- **Xueli Sun**, Jianxi Fan, Shuangxiang Kan, Weibei Fan, Xiaohua Jia: Component Reliability of a Class of Regular Networks and Its Applications. *IEEE Transactions on Reliability* **(SCI Q2)**, 72(2): 637-650 (2023).
+- **Xueli Sun**, J. Fan, S. Kan, W. Fan, X. Jia: Component Reliability of a Class of Regular Networks and Its Applications. *IEEE Transactions on Reliability* **(SCI Q2)**, 72(2): 637-650 (2023).
 
-- Yihong Wang, Jianxi Fan, **Xueli Sun**, Baolei Cheng, Yan Wang: Fault-tolerability of the hypercube and variants with faulty subcubes. *Journal of Parallel and Distributed Computing* **(CCF B)**, 167: 148-156 (2022).
+- Y. Wang, J. Fan, **Xueli Sun**, B. Cheng, Y. Wang: Fault-tolerability of the hypercube and variants with faulty subcubes. *Journal of Parallel and Distributed Computing* **(CCF B)**, 167: 148-156 (2022).
 
-- Yihong Wang, **Xueli Sun**, Weibei Fan, Baolei Cheng, Li Xu, Jianxi Fan: Relationship between g-extra Connectivity and g-restricted Connectivity in Networks. *ICPADS* 2022: 155-160.
+- Y. Wang, **Xueli Sun**, W. Fan, B. Cheng, L. Xu, J. Fan: Relationship between g-extra Connectivity and g-restricted Connectivity in Networks. *ICPADS* 2022: 155-160.
 
-- **Xueli Sun**, Jianxi Fan, Baolei Cheng, Zhao Liu, Jia Yu: Component conditional fault tolerance of hierarchical folded cubic networks. *Theoretical Computer Science* **(CCF B)**, 883: 44-58 (2021).
+- **Xueli Sun**, J. Fan, B. Cheng, Z. Liu, J. Yu: Component conditional fault tolerance of hierarchical folded cubic networks. *Theoretical Computer Science* **(CCF B)**, 883: 44-58 (2021).
 
-- **Xueli Sun**, Shuming Zhou, Mengjie Lv, Jiafei Liu, Guanqin Lian: Intermittent Fault Diagnosability of Some General Regular Networks. *The Computer Journal* **(CCF B)**, 63(1): 16-24 (2020).
+- **Xueli Sun**, S. Zhou, M. Lv, J. Liu, G. Lian: Intermittent Fault Diagnosability of Some General Regular Networks. *The Computer Journal* **(CCF B)**, 63(1): 16-24 (2020).
 
-- **Xueli Sun**, Shuming Zhou, Zhendong Gu, Yihong Wang, Min Li: Reliability evaluation of complete cubic networks. *International Journal of Parallel, Emergent and Distributed Systems*, 35(1): 42-56 (2020).
+- **Xueli Sun**, S. Zhou, Z. Gu, Y. Wang, M. Li: Reliability evaluation of complete cubic networks. *International Journal of Parallel, Emergent and Distributed Systems*, 35(1): 42-56 (2020).
 
-- Mengjie Lv, Shuming Zhou, Jiafei Liu, **Xueli Sun**, Guanqin Lian: Fault diagnosability of DQcube under the PMC model. *Discrete Applied Mathematics* **(CCF C, SCI Q3)**, 259: 180-192 (2019).
+- M. Lv, S. Zhou, J. Liu, **Xueli Sun**, G. Lian: Fault diagnosability of DQcube under the PMC model. *Discrete Applied Mathematics* **(CCF C, SCI Q3)**, 259: 180-192 (2019).
 
-- Mengjie Lv, Shuming Zhou, **Xueli Sun**, Guanqin Lian, Jiafei Liu: Reliability of (n, k)-star network based on g-extra conditional fault. *Theoretical Computer Science* **(CCF B)**, 757: 44-55 (2019).
+- M. Lv, S. Zhou, **Xueli Sun**, G. Lian, J. Liu: Reliability of (n, k)-star network based on g-extra conditional fault. *Theoretical Computer Science* **(CCF B)**, 757: 44-55 (2019).
 
-- **Xueli Sun**, Qingfeng Dong, Shuming Zhou, Mengjie Lv, Guanqin Lian, Jiafei Liu: Fault tolerance analysis of hierarchical folded cube. *Theoretical Computer Science* **(CCF B)**, 790: 117-130 (2019).
+- **Xueli Sun**, Q. Dong, S. Zhou, M. Lv, G. Lian, J. Liu: Fault tolerance analysis of hierarchical folded cube. *Theoretical Computer Science* **(CCF B)**, 790: 117-130 (2019).
 
-- Mengjie Lv, Shuming Zhou, **Xueli Sun**, Guanqin Lian, Jiafei Liu, Dajin Wang: Probabilistic diagnosis of clustered faults for hypercube-based multiprocessor system. *Theoretical Computer Science* **(CCF B)**, 793: 113-131 (2019).
+- M. Lv, S. Zhou, **Xueli Sun**, G. Lian, J. Liu, D. Wang: Probabilistic diagnosis of clustered faults for hypercube-based multiprocessor system. *Theoretical Computer Science* **(CCF B)**, 793: 113-131 (2019).
 
-- Mengjie Lv, Shuming Zhou, **Xueli Sun**, Guanqin Lian, Gaolin Chen: The g-good-neighbour conditional diagnosability of multiprocessor system based on half hypercube. *International Journal of Computer Mathematics: Computer Systems Theory*, 3(3): 160-176 (2018).
+- M. Lv, S. Zhou, **Xueli Sun**, G. Lian, G. Chen: The g-good-neighbour conditional diagnosability of multiprocessor system based on half hypercube. *International Journal of Computer Mathematics: Computer Systems Theory*, 3(3): 160-176 (2018).
 
-- Mengjie Lv, Shuming Zhou, **Xueli Sun**, Guanqin Lian, Jiafei Liu: Reliability Evaluation of Data Center Network DCell. *Parallel Processing Letters*, 28(4): 1850015:1-1850015:10 (2018).
+- M. Lv, S. Zhou, **Xueli Sun**, G. Lian, J. Liu: Reliability Evaluation of Data Center Network DCell. *Parallel Processing Letters*, 28(4): 1850015:1-1850015:10 (2018).
 
 <span id="projects"></span>
 # 🔬 Research Projects
