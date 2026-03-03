@@ -40,7 +40,7 @@ I am always excited to work with motivated students who share a passion for netw
 
 - **2026.03**: 🎉🎉 One first-authored paper accepted by IEEE/ACM Transactions on Networking **(CCF A, Top Journal)**!
 - **2025.12**: 🎉🎉 Two papers (including one first-authored) accepted by IEEE Transactions on Computers **(CCF A, Top Journal)**!
-- **2023.08**: 🎉 I joined Nanjing University of Posts and Telecommunications as a Lecturer ✨!
+- **2023.06**: 🎉 I joined Nanjing University of Posts and Telecommunications as a Lecturer ✨!
 - **2023.06**: 🎓 Successfully defended my Ph.D. dissertation at Soochow University!
 
 <span id="publications"></span>
@@ -128,10 +128,10 @@ I am always excited to work with motivated students who share a passion for netw
 <span id="education"></span>
 # 📖 Education & Experience
 
-- **2023.08 - Present**: Lecturer & Master's Supervisor
+- **2023.06 - Present**: Lecturer & Master's Supervisor
   - School of Internet of Things, Nanjing University of Posts and Telecommunications
   - Nanjing, China
 
-- **2023.06**: Ph.D. in Software Engineering, Soochow University, Suzhou, China
+- **2020.09 - 2023.06**: Ph.D. in Software Engineering, Soochow University, Suzhou, China
   - Supervisor: Prof. Jianxi Fan
   - Thesis: Research on Network Reliability and Fault Diagnosis
