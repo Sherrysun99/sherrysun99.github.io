@@ -37,7 +37,7 @@ author_profile: true
 
 - **2026.03**：🎉🎉 一篇第一作者论文被 IEEE/ACM Transactions on Networking **(CCF A类顶级期刊)** 接收！
 - **2025.12**：🎉🎉 两篇论文（含一篇第一作者）被 IEEE Transactions on Computers **(CCF A类顶级期刊)** 接收！
-- **2023.08**：🎉 入职南京邮电大学，担任讲师职位 ✨！
+- **2023.06**：🎉 入职南京邮电大学，担任讲师职位 ✨！
 - **2023.06**：🎓 顺利通过苏州大学博士学位论文答辩！
 
 <span id="publications"></span>
