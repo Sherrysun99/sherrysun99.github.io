@@ -35,7 +35,7 @@ author_profile: true
 <span id="news"></span>
 # 🔥 最新动态
 
-- **2026.03**：🎉🎉 一篇第一作者论文被 IEEE/ACM Transactions on Networking **(CCF A类顶级期刊)** 接收！
+- **2026.03**：🎉🎉 两篇论文（含一篇第一作者）分别被 IEEE Transactions on Computers 和 IEEE/ACM Transactions on Networking **(CCF A类顶级期刊)** 接收！
 - **2025.12**：🎉🎉 两篇论文（含一篇第一作者）被 IEEE Transactions on Computers **(CCF A类顶级期刊)** 接收！
 - **2023.06**：🎉 入职南京邮电大学，担任讲师职位 ✨！
 - **2023.06**：🎓 顺利通过苏州大学博士学位论文答辩！
@@ -44,6 +44,8 @@ author_profile: true
 # 📝 论文发表
 
 - **Xueli Sun**, S. Kan, W. Fan, J. Qi, Z. Dong, J. Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC∗ Model. *IEEE/ACM Transactions on Networking* **(CCF A类)**, 2026.
+
+- W. Fan, X. Peng, F. Xiao, M. Lv, **Xueli Sun**, W. Duan, S.-Y. Hsieh: A Highly Cost-Effective and Fault-Tolerant Network Topology for Large-Scale Data Centers. *IEEE Transactions on Computers* **(CCF A类)**, 75(4): 1488-1502 (2026).
 
 - **Xueli Sun**, S. Kan, J. Fan, W. Fan, J. Qi, Z. Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A类)**, 2025.
 
