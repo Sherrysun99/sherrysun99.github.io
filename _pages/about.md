@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span id="about"></span>
-I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **network reliability**, **fault-tolerant computing**, and their applications in **data center networks** and **cloud computing**. I have published **30 papers** in prestigious international journals and conferences, including **14 papers in CCF Rank B and above journals** (including 4 CCF A papers) such as IEEE/ACM Transactions on Networking **(CCF A)**, IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
+I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **fault-tolerant computing**, **data center network architectures**, and **graph learning for fault diagnosis**. I have published **30 papers** in prestigious international journals and conferences, including **14 papers in CCF Rank B and above journals** (including 4 CCF A papers) such as IEEE/ACM Transactions on Networking **(CCF A)**, IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
 
 I received my Ph.D. degree in Software Engineering from Soochow University in June 2023, under the supervision of Prof. Jianxi Fan. During my doctoral studies, I was honored with the National Scholarship for Doctoral Students 🏆, received the Special Prize Scholarship twice, and led the Graduate Research Innovation Program of Jiangsu Province (2021-2022).
 
@@ -23,9 +23,9 @@ I am always excited to work with motivated students who share a passion for netw
 **Research Directions:**
 - Network Reliability
 - Fault-Tolerant Computing
-- Graph Theory and Algorithms
+- Interconnection Architectures
 - Data Center Networks
-- Cloud Computing and Big Data
+- Graph Learning
 
 **What I Offer:**
 - 💰 Research funding support for attending academic conferences
@@ -46,11 +46,11 @@ I am always excited to work with motivated students who share a passion for netw
 <span id="publications"></span>
 # 📝 Publications
 
-- **Xueli Sun**, S. Kan, W. Fan, J. Qi, Z. Dong, J. Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC∗ Model. *IEEE/ACM Transactions on Networking* **(CCF A)**, 2026.
+- **Xueli Sun**, S. Kan, W. Fan, J. Qi, Z. Dong, J. Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC* Model. *IEEE/ACM Transactions on Networking* **(CCF A)**, 34: 3918-3931 (2026).
 
 - W. Fan, X. Peng, F. Xiao, M. Lv, **Xueli Sun**, W. Duan, S.-Y. Hsieh: A Highly Cost-Effective and Fault-Tolerant Network Topology for Large-Scale Data Centers. *IEEE Transactions on Computers* **(CCF A)**, 75(4): 1488-1502 (2026).
 
-- **Xueli Sun**, S. Kan, J. Fan, W. Fan, J. Qi, Z. Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A)**, 2025.
+- **Xueli Sun**, S. Kan, J. Fan, W. Fan, J. Qi, Z. Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A)**, 75(3): 1043-1057 (2026).
 
 - X. Liu, Z. Dong, W. Fan, M. Lv, **Xueli Sun**, J. Qi, S.-Y. Hsieh: A Highly Reliable Multiplexing Scheme in Hypercube-Structured Hierarchical Networks. *IEEE Transactions on Computers* **(CCF A)**, 74(10): 3462-3475 (2025).
 

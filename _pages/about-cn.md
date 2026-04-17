@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <span id="about"></span>
-我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**及其在**数据中心网络**和**云计算**中的应用。我在IEEE/ACM Transactions on Networking **（CCF A类）**、IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、The Computer Journal、Journal of Computer Science and Technology、Theoretical Computer Science等国际知名期刊和会议上发表**30篇论文**，其中**CCF B类及以上期刊论文14篇**（含CCF A类4篇）。
+我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**、**面向故障诊断的图学习**及其在**数据中心网络**和**云计算**中的应用。我在IEEE/ACM Transactions on Networking **（CCF A类）**、IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、The Computer Journal、Journal of Computer Science and Technology、Theoretical Computer Science等国际知名期刊和会议上发表**30篇论文**，其中**CCF B类及以上期刊论文14篇**（含CCF A类4篇）。
 
 我于2023年6月获得苏州大学软件工程专业工学博士学位，师从樊建席教授。在博士期间，我荣获博士研究生国家奖学金🏆、两次校级特等奖学金，主持江苏省研究生科研创新计划项目（2021-2022）。
 
@@ -20,9 +20,9 @@ author_profile: true
 **研究方向：**
 - 网络可靠性
 - 容错计算
-- 图论及算法
+- 互连网络体系结构
 - 数据中心网络
-- 云计算与大数据
+- 图学习
 
 **我能提供：**
 - 💰 科研经费支持参加学术会议
@@ -44,11 +44,11 @@ author_profile: true
 <span id="publications"></span>
 # 📝 论文发表
 
-- **Xueli Sun**, S. Kan, W. Fan, J. Qi, Z. Dong, J. Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC∗ Model. *IEEE/ACM Transactions on Networking* **(CCF A类)**, 2026.
+- **Xueli Sun**, S. Kan, W. Fan, J. Qi, Z. Dong, J. Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC* Model. *IEEE/ACM Transactions on Networking* **(CCF A类)**, 34: 3918-3931 (2026).
 
 - W. Fan, X. Peng, F. Xiao, M. Lv, **Xueli Sun**, W. Duan, S.-Y. Hsieh: A Highly Cost-Effective and Fault-Tolerant Network Topology for Large-Scale Data Centers. *IEEE Transactions on Computers* **(CCF A类)**, 75(4): 1488-1502 (2026).
 
-- **Xueli Sun**, S. Kan, J. Fan, W. Fan, J. Qi, Z. Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A类)**, 2025.
+- **Xueli Sun**, S. Kan, J. Fan, W. Fan, J. Qi, Z. Dong: Multi-Component Fault Tolerance and Path Construction in Interconnection Networks. *IEEE Transactions on Computers* **(CCF A类)**, 75(3): 1043-1057 (2026).
 
 - X. Liu, Z. Dong, W. Fan, M. Lv, **Xueli Sun**, J. Qi, S.-Y. Hsieh: A Highly Reliable Multiplexing Scheme in Hypercube-Structured Hierarchical Networks. *IEEE Transactions on Computers* **(CCF A类)**, 74(10): 3462-3475 (2025).
 
