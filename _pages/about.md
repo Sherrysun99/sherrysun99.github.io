@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <span id="about"></span>
-I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **fault-tolerant computing**, **data center network architectures**, and **graph learning for fault diagnosis**. I have published **30 papers** in prestigious international journals and conferences, including **14 papers in CCF Rank B and above journals** (including 4 CCF A papers) such as IEEE/ACM Transactions on Networking **(CCF A)**, IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
+I am currently a Lecturer and Master's Supervisor at the School of Internet of Things, Nanjing University of Posts and Telecommunications (NJUPT). My research focuses on **fault-tolerant computing**, **network architectures**, and **graph learning for fault diagnosis**. I have published **30 papers** in prestigious international journals and conferences, including **14 papers in CCF Rank B and above journals** (including 4 CCF A papers) such as IEEE/ACM Transactions on Networking **(CCF A)**, IEEE Transactions on Computers **(CCF A)**, IEEE Transactions on Reliability, The Computer Journal, Journal of Computer Science and Technology, and Theoretical Computer Science.
 
 I received my Ph.D. degree in Software Engineering from Soochow University in June 2023, under the supervision of Prof. Jianxi Fan. During my doctoral studies, I was honored with the National Scholarship for Doctoral Students 🏆, received the Special Prize Scholarship twice, and led the Graduate Research Innovation Program of Jiangsu Province (2021-2022).
 
@@ -16,7 +16,7 @@ I am a member of the China Computer Federation (CCF) and serve as a reviewer for
 
 # 💡 Opportunities
 
-I am always excited to work with motivated students who share a passion for network reliability and fault-tolerant computing. If you are curious, hardworking, and eager to explore cutting-edge research, my group offers a supportive environment to grow.
+I am always excited to work with motivated students who are passionate about fault-tolerant computing, interconnection network architectures, and graph learning for fault diagnosis. If you are curious, hardworking, and eager to explore cutting-edge research, my group offers a supportive environment to grow.
 
 🚀 Join me—and let's advance the reliability of computer systems together!
 
