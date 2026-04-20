@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <span id="about"></span>
-我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**、**面向故障诊断的图学习**及其在**数据中心网络**和**云计算**中的应用。我在IEEE/ACM Transactions on Networking **（CCF A类）**、IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、The Computer Journal、Journal of Computer Science and Technology、Theoretical Computer Science等国际知名期刊和会议上发表**30篇论文**，其中**CCF B类及以上期刊论文14篇**（含CCF A类4篇）。
+我目前是南京邮电大学物联网学院讲师、硕士生导师。我的研究方向聚焦于**网络可靠性**、**容错计算**、**面向故障诊断的图学习**及其在**数据中心网络**和**云计算**中的应用。我在IEEE/ACM Transactions on Networking **（CCF A类）**、IEEE Transactions on Computers **（CCF A类）**、IEEE Transactions on Reliability、Journal of Computer Science and Technology等国际知名期刊和会议上发表**31篇论文**，其中**CCF B类及以上期刊论文15篇**（含CCF A类5篇）。
 
 我于2023年6月获得苏州大学软件工程专业工学博士学位，师从樊建席教授。在博士期间，我荣获博士研究生国家奖学金🏆、两次校级特等奖学金，主持江苏省研究生科研创新计划项目（2021-2022）。
 
@@ -35,6 +35,7 @@ author_profile: true
 <span id="news"></span>
 # 🔥 最新动态
 
+- **2026.04**：🎉 一篇论文被 IEEE Transactions on Computers **(CCF A类顶级期刊)** 接收！
 - **2026.03**：🎉🎉 两篇论文（含一篇第一作者）分别被 IEEE Transactions on Computers 和 IEEE/ACM Transactions on Networking **(CCF A类顶级期刊)** 接收！
 - **2025.12**：🎉🎉 两篇论文（含一篇第一作者）被 IEEE Transactions on Computers **(CCF A类顶级期刊)** 接收！
 - **2025.12**：🎉 南京邮电大学新教师教学竞赛特等奖
@@ -46,6 +47,8 @@ author_profile: true
 # 📝 论文发表
 
 - **Xueli Sun**, S. Kan, W. Fan, J. Qi, Z. Dong, J. Fan: A Graph Neural Network Approach for Hybrid Node-Edge Fault Diagnosis in Interconnection Networks under the HPMC* Model. *IEEE/ACM Transactions on Networking* **(CCF A类)**, 34: 3918-3931 (2026).
+
+- F. Xiao, H. Huang, W. Fan, M. Lv, **Xueli Sun**, Y. Zuo, S.-Y. Hsieh: EBM: Traffic-Based Differentiated Enhanced Buffer Management in Data Center Networks. *IEEE Transactions on Computers* **(CCF A类)**, 75(5): 1737-1751 (2026).
 
 - W. Fan, X. Peng, F. Xiao, M. Lv, **Xueli Sun**, W. Duan, S.-Y. Hsieh: A Highly Cost-Effective and Fault-Tolerant Network Topology for Large-Scale Data Centers. *IEEE Transactions on Computers* **(CCF A类)**, 75(4): 1488-1502 (2026).
 
