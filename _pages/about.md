@@ -38,6 +38,7 @@ I am always excited to work with motivated students who are passionate about fau
 <span id="news"></span>
 # 🔥 News
 
+- **2026.04**: 🎉 One paper accepted by IEEE Transactions on Computers **(CCF A, Top Journal)**!
 - **2026.03**: 🎉🎉 Two papers (including one first-authored) accepted by IEEE Transactions on Computers and IEEE/ACM Transactions on Networking **(CCF A, Top Journals)**!
 - **2025.12**: 🎉🎉 Two papers (including one first-authored) accepted by IEEE Transactions on Computers **(CCF A, Top Journal)**!
 - **2023.06**: 🎉 I joined Nanjing University of Posts and Telecommunications as a Lecturer ✨!
